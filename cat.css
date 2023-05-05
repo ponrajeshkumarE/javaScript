@@ -1,0 +1,28 @@
+body
+{
+    background  : black;
+    height: 400px;
+    width: 1450px;
+
+}
+.box
+{
+   background-color: dimgray;
+    height:80px;
+    width:180px;
+    color: antiquewhite;
+    border-radius: 10px;
+
+}     
+.box1{
+    background-color: green;
+}
+.box2
+{
+    background-color: red;
+}
+   .box3
+   {
+    background-color: aliceblue ;
+   }
+ 

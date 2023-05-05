@@ -1,0 +1,16 @@
+.box{
+    background-image: url("file:///C:/Users/Rajesh/Pictures/Screenshots/2fabf3ceb5a35b51a70e27137d56e4d2.gif");
+    height: 600px;
+    width: 600px;
+    margin-left:500px;
+    text-align: center;
+    color: blueviolet;
+
+
+    
+    
+}
+#button
+{
+    border-radius: 10px;
+}
